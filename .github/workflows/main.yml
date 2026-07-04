@@ -1,6 +1,7 @@
 name: read file manually
 
-on: workflow_dispatch
+on: 
+   workflow_dispatch:
 
 jobs:
   build:
